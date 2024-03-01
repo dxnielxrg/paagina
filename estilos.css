@@ -1,0 +1,46 @@
+
+body{
+    background-size: cover;
+}
+body.fondo1{
+    background-image:  url('https://i.pinimg.com/564x/2b/ae/97/2bae97a9423b958577274993864aa400.jpg');
+}
+body.fondo2{
+    background-image: url('https://i.pinimg.com/564x/ab/d1/c2/abd1c271156589b714a30441b591d642.jpg') ;
+}
+body.fondo3{
+    background-image: url('https://i.pinimg.com/564x/b8/5d/28/b85d2815b5524d49cfcdc80e48e79325.jpg');
+}
+
+h2{
+    background-color:lightcoral;
+    text-align:center; 
+    font-size:350%;
+    font-family: 'Serenity';
+    color:bisque;
+}
+h1{
+    background-color:rgb(219, 103, 186);
+    text-align:center; 
+    font-size:250%;
+    font-family: 'Racy Mango';
+    color:rgba(181, 15, 131, 0.927);
+}
+h3{
+    background-color:rgb(197, 128, 164);
+    text-align:center; 
+    font-size:250%;
+    font-family: 'Crafty Beach';
+    color:lightpink;
+}
+ol {
+    font-size: 20px;
+    color:darkslateblue
+}
+p{
+    font-size: 30px;
+    color:rebeccapurple
+}
+img{
+    list-style-image: "width:200px;height:200px";
+}
